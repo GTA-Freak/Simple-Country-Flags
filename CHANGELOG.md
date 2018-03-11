@@ -35,7 +35,7 @@ __Download:__ http://pastebin.com/G7d24vKe
 ### [Version 5 (latest)](https://github.com/GTA-Freak/Simple-Country-Flags/releases/tag/V5)
 
 * 45 new countries
-* Updated 2 flags:
+* Updated 3 flags:
 	* Italy
 	* Andorra
 	* Mali
