@@ -35,6 +35,3 @@ Here you can see a [list of all supported countries](COUNTRIES.md) yet.
 # License
 
 `CC BY-SA 3.0` [Attribution-ShareAlike 3.0 Unported](https://creativecommons.org/licenses/by-sa/3.0/)
-
-# Contribute!
-Feel free to create new flags or to modify the existing ones. Please open an issue report and let me know your results so I can add it to the filterscript. Thank you!
